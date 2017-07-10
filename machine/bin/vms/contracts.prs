@@ -1,0 +1,113 @@
+# JavaAnnotation
+JavaAnnotation;1=javax.annotation,javax.annotation.security
+JavaAnnotation;1.1=javax.annotation,javax.annotation.security,javax.annotation.sql
+JavaAnnotation;1.2=javax.annotation,javax.annotation.security,javax.annotation.sql
+
+# JavaBatch
+JavaBatch;1=javax.batch.api,javax.batch.api.chunk,javax.batch.api.chunk.listener,javax.batch.api.listener,javax.batch.api.partition,javax.batch.operations, javax.batch.runtime,javax.batch.runtime.context
+
+# JavaBeanValidation
+JavaBeanValidation;1=javax.validation,javax.validation.bootstrap,javax.validation.constraints,javax.validation.groups,javax.validation.metadata,javax.validation.spi
+JavaBeanValidation;1.1=javax.validation,javax.validation.bootstrap,javax.validation.constraints,javax.validation.constraintvalidation,javax.validation.executable,javax.validation.groups,javax.validation.metadata,\
+javax.validation.spi
+
+# JavaCDI
+JavaCDI;1=javax.decorator,javax.enterprise.context,javax.enterprise.context.spi,javax.enterprise.event,javax.enterprise.inject,javax.enterprise.inject.spi,javax.enterprise.util
+JavaCDI;1.1=javax.decorator,javax.enterprise.context,javax.enterprise.context.spi,javax.enterprise.event,javax.enterprise.inject,javax.enterprise.inject.spi,javax.enterprise.util
+
+# JavaEJB*
+JavaEJB;2.1=javax.ejb,javax.ejb.spi
+JavaEJB;3=javax.ejb,javax.ejb.spi
+JavaEJB;3.1=javax.ejb,javax.ejb.embeddable,javax.ejb.spi
+JavaEJB;3.2=javax.ejb,javax.ejb.embeddable,javax.ejb.spi
+JavaEJBLite;3.1=javax.ejb,javax.ejb.embeddable,javax.ejb.spi
+JavaEJBLite;3.2=javax.ejb
+
+# JavaEnterpriseConcurrency
+JavaEnterpriseConcurrency;1=javax.enterprise.concurrent
+
+# JavaEL
+JavaEL;2.1=javax.el
+JavaEL;2.2=javax.el
+JavaEL;3=javax.el
+
+# JavaInject
+JavaInject;1=javax.inject
+
+# JavaInterceptor
+JavaInterceptor;1.1=javax.interceptor
+JavaInterceptor;1.2=javax.interceptor
+
+# JavaJACC
+JavaJACC;1.1=javax.security.jacc
+JavaJACC;1.4=javax.security.jacc
+JavaJACC;1.5=javax.security.jacc
+
+# JavaJASPIC
+JavaJASPIC;1=javax.security.auth.message, javax.security.auth.message.callback,javax.security.auth.message.config,javax.security.auth.message.module
+JavaJASPIC;1.1=javax.security.auth.message,javax.security.auth.message.callback,javax.security.auth.message.config,javax.security.auth.message.module
+
+# Java XML
+JavaJAXB;2.1=javax.xml.bind,javax.xml.bind.annotation,javax.xml.bind.annotation.adapters,javax.xml.bind.attachment,javax.xml.bind.helpers,javax.xml.bind.util
+JavaJAXB;2.2=javax.xml.bind,javax.xml.bind.annotation,javax.xml.bind.annotation.adapters,javax.xml.bind.attachment,javax.xml.bind.helpers,javax.xml.bind.util
+JavaJAXR;1=javax.xml.registry,javax.xml.registry.infomodel
+JavaJAXWS;2.1=javax.xml.ws,javax.xml.ws.handler,javax.xml.ws.handler.soap,javax.xml.ws.http,javax.xml.ws.soap,javax.xml.ws.spi,javax.xml.ws.wsaddressing
+JavaJAXWS;2.2=javax.xml.ws,javax.xml.ws.handler,javax.xml.ws.handler.soap,javax.xml.ws.http,javax.xml.ws.soap,javax.xml.ws.spi,javax.xml.ws.spi.http,javax.xml.ws.wsaddressing
+
+# JavaJAXRS
+JavaJAXRS;1.1=javax.ws.rs,javax.ws.rs.core,javax.ws.rs.ext
+JavaJAXRS;2=javax.ws.rs,javax.ws.rs.core,javax.ws.rs.ext,javax.ws.rs.client,javax.ws.rs.container
+
+# JavaJCA
+JavaJCA;1.5=javax.resource,javax.resource.cci,javax.resource.spi,javax.resource.spi.endpoint,javax.resource.spi.security,javax.resource.spi.work
+JavaJCA;1.6=javax.resource,javax.resource.cci,javax.resource.spi,javax.resource.spi.endpoint,javax.resource.spi.security,javax.resource.spi.work
+JavaJCA;1.7=javax.resource,javax.resource.cci,javax.resource.spi,javax.resource.spi.endpoint,javax.resource.spi.security,javax.resource.spi.work
+
+# JavaJMS
+JavaJMS;1.1=javax.jms
+JavaJMS;2=javax.jms
+
+# JavaJPA
+JavaJPA;1=javax.persistence,javax.persistence.spi
+JavaJPA;2=javax.persistence,javax.persistence.criteria,javax.persistence.metamodel,javax.persistence.spi
+JavaJPA;2.1=javax.persistence,javax.persistence.criteria,javax.persistence.metamodel,javax.persistence.spi
+
+# JavaJSF
+JavaJSF;2=javax.faces,javax.faces.application,javax.faces.bean,javax.faces.component,javax.faces.component.behavior,javax.faces.component.html,javax.faces.component.visit,javax.faces.context,\
+javax.faces.convert,javax.faces.el,javax.faces.event,javax.faces.lifecycle,javax.faces.model,javax.faces.render,javax.faces.validator,javax.faces.view,javax.faces.view.facelets,javax.faces.webapp
+JavaJSF;2.2=javax.faces,javax.faces.application,javax.faces.bean,javax.faces.component,javax.faces.component.behavior,javax.faces.component.html,javax.faces.component.visit,javax.faces.context,\
+javax.faces.convert,javax.faces.el,javax.faces.event,javax.faces.flow,javax.faces.flow.builder,javax.faces.lifecycle,javax.faces.model,javax.faces.render,javax.faces.validator,javax.faces.view,\
+javax.faces.view.facelets,javax.faces.webapp
+
+# JavaJSONP
+JavaJSONP;1=javax.json,javax.json.spi,javax.json.stream
+
+# Java JSP
+JavaJSP;2=javax.servlet.jsp,javax.servlet.jsp.el,javax.servlet.jsp.tagext
+JavaJSP;2.1=javax.servlet.jsp,javax.servlet.jsp.el,javax.servlet.jsp.tagext
+JavaJSP;2.2=javax.servlet.jsp,javax.servlet.jsp.el,javax.servlet.jsp.tagext
+JavaJSP;2.3=javax.servlet.jsp,javax.servlet.jsp.el,javax.servlet.jsp.tagext
+JavaJSTL;1=javax.servlet.jsp.jstl.core,javax.servlet.jsp.jstl.fmt,javax.servlet.jsp.jstl.sql,javax.servlet.jsp.jstl.tlv
+JavaJSTL;1.1=javax.servlet.jsp.jstl.core,javax.servlet.jsp.jstl.fmt,javax.servlet.jsp.jstl.sql,javax.servlet.jsp.jstl.tlv
+JavaJSTL;1.2=javax.servlet.jsp.jstl.core,javax.servlet.jsp.jstl.fmt,javax.servlet.jsp.jstl.sql,javax.servlet.jsp.jstl.tlv
+
+# JavaJTA
+JavaJTA;1.1=javax.transaction,javax.transaction.xa
+JavaJTA;1.2=javax.transaction,javax.transaction.xa
+JavaJTAJRE;1.1=javax.transaction,javax.transaction.xa
+
+# JavaMail
+JavaMail;1.4=javax.mail,javax.mail.event,javax.mail.internet,javax.mail.search,javax.mail.util
+JavaMail;1.5=javax.mail,javax.mail.event,javax.mail.internet,javax.mail.search,javax.mail.util
+
+# JavaServlet
+JavaServlet;2.5=javax.servlet,javax.servlet.http
+JavaServlet;3=javax.servlet,javax.servlet.annotation,javax.servlet.descriptor,javax.servlet.http
+JavaServlet;3.1=javax.servlet,javax.servlet.annotation,javax.servlet.descriptor,javax.servlet.http
+
+# JavaWebServicesMetadata
+JavaWebServicesMetadata;2.0=javax.jws,javax.jws.soap
+JavaWebServicesMetadata;2.1=javax.jws,javax.jws.soap
+
+# JavaWebSockets
+JavaWebSockets;1=javax.websocket,javax.websocket.server
